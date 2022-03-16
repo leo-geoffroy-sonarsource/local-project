@@ -19,7 +19,7 @@ public class App {
   }
 
   public static void main(String[] args) {
-    System.out.println("Starting App 2");
+    System.out.println("Starting App 22");
 
     Process process = new Process();
     while (!process.isFinished()) {
